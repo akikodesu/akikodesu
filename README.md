@@ -1,6 +1,6 @@
 - 👋 Hi, I’m akiko
 - 👀 I’m interested in playing with pixel and exploring the world build with 0 and 1
-- 🌱 I’m currently learning some basic programming knowledge for the preperation of master degree
+- 🌱 I’m currently doing my master degree in IT in UWA
 - 💞️ I’m looking for a collaboration for game jam
 - 📫 You can reach me by akikodesu222@gmail.com
 
